@@ -1,4 +1,4 @@
-module github.com/DreamerLWJ/fast_pool
+module github.com/DreamerLWJ/fast-pool
 
 go 1.18
 
