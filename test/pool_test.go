@@ -3,8 +3,8 @@ package test
 import (
 	"context"
 	"fmt"
-	"github.com/DreamerLWJ/fast_pool/config"
-	"github.com/DreamerLWJ/fast_pool/core"
+	"github.com/DreamerLWJ/fast-pool/config"
+	"github.com/DreamerLWJ/fast-pool/core"
 	"testing"
 	"time"
 )

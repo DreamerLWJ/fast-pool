@@ -3,7 +3,7 @@ package core
 import (
 	"context"
 	"errors"
-	"github.com/DreamerLWJ/fast_pool/config"
+	"github.com/DreamerLWJ/fast-pool/config"
 	cmap "github.com/orcaman/concurrent-map/v2"
 	"sync/atomic"
 	"time"
